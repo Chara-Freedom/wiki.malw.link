@@ -154,7 +154,7 @@ macOS Intel: https://github.com/clash-verge-rev/clash-verge-rev/releases/downloa
 
 Linux deb: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_amd64.deb
 
-AUR: `clash-verge-bin`
+AUR: `clash-verge-rev-bin`
 
 2. Перейдите в левый раздел Профили
 3. Нажмите "НОВЫЙ". Установите Тип: Local. Нажмите "ВЫБРАТЬ ФАЙЛ" и выберите скачанный конфиг `warp-masque-clash.yaml`. Нажмите "СОХРАНИТЬ".
