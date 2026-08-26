@@ -17,7 +17,7 @@
 ## Программы
 - <img src="/img/logo/zapret.png" class="inline"/>[zapret](/network/vpns/zapret) — автономный инструмент противодействия ограничениям DPI. Работает локально на вашем устройстве, без потерь в скорости интернета.
 - <img src="/img/logo/zapret.png" class="inline"/>[blockcheck](/network/vpns/blockcheck) — скрипт-анализатор способов обхода [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Используется для автоматизированного подбора стратегий для [zapret](/network/vpns/zapret) в текущей сети по заданным параметрам.
-- <img src="/img/logo/throne.png" class="inline"/>[Throne](/network/vpns/throne) — продвинутая программа подключения к прокси-серверам на базе [Xray](https://github.com/XTLS/Xray-core) и [Sing-box](https://github.com/SagerNet/sing-box/) для Windows, macOS и Linux.
+- <img src="/img/logo/throne.png" class="inline"/>[Throne](/network/vpns/throne) — продвинутая программа подключения к прокси-серверам на базе [Xray](https://github.com/XTLS/Xray-core) и [Sing-box](https://github.com/SagerNet/sing-box/) для Windows, macOS, Linux.
 - <img src="/img/logo/v2rayn.png" class="inline"/>[v2rayN](/network/vpns/v2rayn) — подключение к VLESS и другим протоколам на Windows, Linux, macOS.
 <!-- - [v2rayNG](/network/vpns/v2rayng) -->
 - <img src="/img/logo/hiddify.png" class="inline"/>[Hiddify](/network/vpns/hiddify) — современный VPN/прокси клиент на базе [sing-box](https://github.com/SagerNet/sing-box) с красивым дизайном для Windows, macOS, Linux, Android, iOS.
