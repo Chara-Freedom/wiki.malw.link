@@ -8,7 +8,7 @@
 
 Проект Throne был создан весной 2024 года [Mahdi-zarei](https://github.com/Mahdi-zarei), поклонником малоактивного [Nekoray](https://github.com/MatsuriDayo/nekoray), который годом позже был архивирован. Каждое прокси-приложение должно своевременно обновлять ядро, чтобы поддерживать новые возможности и протоколы, внедрять исправления безопасности, поэтому оригинал устарел безвозвратно. За это время был полностью переделан интерфейс и добавлено огромное количество новых функций. Throne написан на C++ через графическую библиотеку [Qt](https://ru.wikipedia.org/wiki/Qt).
 
-<img src="/img/apps/throne/throne-interface.png" class="right" width="200px">
+<img src="/img/apps/throne/throne-interface.png">
 
 ## Особенности
 
